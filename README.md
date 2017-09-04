@@ -22,7 +22,7 @@ index.php:
     <meta name="author" content="Jeisson Rueda">
 </head>
 <body>
-	<h2>PlusThis</h2>
+	
 <h4>Welcome to the homework</h4>
 <form action="action.php" method="POST">
 <input type="text" name="cadena" placeholder="name"></input>
