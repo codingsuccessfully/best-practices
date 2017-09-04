@@ -1,11 +1,11 @@
 # How to insert data into MySQL and show it with PHP 
 
-We are going to create 5 files:
-***index: It has the html code
-***action: It has the function to insert the data
-+connection: It has the code to access the databases
-+queries: It has the functions to insert and show the data
-+validation: It has the functions to validate the values
+*We are going to create 5 files:
+*index: It has the html code
+*action: It has the function to insert the data
+*connection: It has the code to access the databases
+*queries: It has the functions to insert and show the data
+*validation: It has the functions to validate the values
 
 ### Best Practices with PHP and MySQL
 
