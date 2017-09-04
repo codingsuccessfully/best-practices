@@ -1,5 +1,5 @@
 # How to insert data into MySQL and show it with PHP 
-### Best Practices with PHP and MySQL - Jeisson Rueda
+### Best Practices with PHP and MySQL 
 We are going to create 5 files:
 
 index: It has the html code
