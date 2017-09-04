@@ -1,6 +1,6 @@
 # best-practices
 Best Practices with PHP and MySQL
-'''html
+```html
 
 <html>
 <head>
@@ -36,4 +36,4 @@ for($i=0 ; $i<$rows ; ++$i){
 
 ?>
 </html>
-'''
+```
